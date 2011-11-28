@@ -1,4 +1,3 @@
-
 One page navigation of studying Node.js
 =======================================
 - [node.js 공식 웹사이트](http://www.nodejs.org/)
@@ -9,6 +8,10 @@ One page navigation of studying Node.js
 - [왜 Node.js인가?](http://blog.doortts.com/219)
 - [Introduction to Node.js with Ryan Dahl, 소개 동영상](http://www.youtube.com/watch?v=jo_B4LTHi3I)  
   . OctoberSky.js 에서 온라인 스터디의 일환으로 [함께 보기](http://blog.doortts.com/208) 시간을 가짐.
+- [Node.js Beginners Guide](http://nodeguide.atelier.weaveus.com/beginner.html)
+- [Node.js Style Guide](http://nodeguide.atelier.weaveus.com/style.html) 
+- [node.js를 사용하도록 boss를 설득시키는 가이드](http://nodeguide.atelier.weaveus.com/convincing_the_boss.html)
+- [Node.js Community Guide](http://nodeguide.atelier.weaveus.com/community.html)
 
 ###Node.js API 
 - [한글 매뉴얼 (v0.2.6)](http://nodejs-kr.org/apis/api026.html)
