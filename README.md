@@ -1,0 +1,98 @@
+
+One page navigation of studying Node.js
+=======================================
+- [node.js 공식 웹사이트](http://www.nodejs.org/)
+
+###Node.js 기초
+- [Node.js란?](http://www.ibm.com/developerworks/kr/library/os-nodejs/index.html) - IBM dW기사
+- [그래서, Node.js는 무엇인가?](http://blog.doortts.com/214)
+- [왜 Node.js인가?](http://blog.doortts.com/219)
+- [Introduction to Node.js with Ryan Dahl, 소개 동영상](http://www.youtube.com/watch?v=jo_B4LTHi3I)  
+  . OctoberSky.js 에서 온라인 스터디의 일환으로 [함께 보기](http://blog.doortts.com/208) 시간을 가짐.
+
+###Node.js API 
+- [한글 매뉴얼 (v0.2.6)](http://nodejs-kr.org/apis/api026.html)
+- [node.js 0.6 stable 릴리즈 내용](http://blog.doortts.com/216)
+
+###Node.js 기초 다음
+- [node에서 모듈 로드하기](http://nodejs-kr.org/wordpress/archives/457)
+- [node.js의 connect 이해하기](http://nodejs-kr.org/wordpress/archives/467)
+- [node.js에서 비동기로 코드 디자인하기](http://nodejs-kr.org/wordpress/archives/531)
+
+###Node.js 가이드 문서들
+- [Felix's Node.js Guide](http://nodeguide.com/) - [번역사이트](http://nodeguide.atelier.weaveus.com/)
+- [Node Tuts](http://nodetuts.com/) - 동영상 튜토리얼
+- [The Node Beginner Book](http://nodebeginner.org/) - 번역중
+
+###Node.js응용
+- [Node.js 이용해서 chat을 만들어보자01](http://j2p.kr/blog/2011/11/14/node-chat)
+- [Node.js 이용해서 chat을 만들어보자02](http://j2p.kr/blog/2011/11/21/node-chat2)
+
+###npm (Node Package Manager)
+- [npm 1.0 간단정리](http://nodejs-kr.org/wordpress/archives/449)
+- [npm FAQ](http://blog.doortts.com/225)
+- [npm, 전역설치 및 지역설치](http://blog.doortts.com/226)
+
+###Common.js
+- [CommonJS, node.js의 모듈 규칙](http://blog.sangpire.pe.kr/tag/Commonjs)
+
+###관련 모듈 및 프레임워크
+- [express, Node.js 웹 애플리케이션 개발](http://firejune.io/express/)
+- [Jade - 템플릿 엔진 for Node.js](http://blog.doortts.com/223)
+- [Mongoose 온라인 매뉴얼 for mongodb](http://nodejs-kr.org/wordpress/archives/536)
+- [Socket.IO, websocket for node.js](http://yambbam.kr/socket-io.html)
+
+###Test Framework
+- [Node.js TDD 프레임워크 Expresso 매뉴얼](http://blog.doortts.com/213)
+- [바우즈(Vows), node.js를 위한 비동기 행위 주도 개발(BDD) 프레임워크](http://blog.doortts.com/220)
+
+###유용한 블로그
+- [drypot님의 node.js](http://drypot.tumblr.com/tagged/node)
+- [Inside.JS](http://nodejs-kr.org/wordpress/)
+
+###번외자료
+- [Javascript Closure](http://nodejs-kr.org/wordpress/archives/508)
+
+###Node.js 호스팅 서비스 (무료포함)
+- [joyent](http://joyent.com)
+- [fluxflex](http://www.fluxflex.com)
+
+###slides
+
+
+###OctoberSky.js 스터디
+
+#####온라인
+
+- [Part 1: 소개 (Introduction)](http://blog.doortts.com/207)
+- [Part 2: 설치와 애플리케이션 뼈대 만들기 (Installation and Skeleton App)](http://blog.doortts.com/209)
+- [Part 3: RESTful 메소드와 테스트 (RESTful Methods and Testing)](http://blog.doortts.com/215)
+- [Part 4: 템플릿, 파셜, 그리고 문서 생성과 수정 (Templates, - Partials, Creating and Editing Documents)](http://blog.doortts.com/224)
+  . [여기까지의 소스코드](https://github.com/iamhjoo/nodepad_iamhjoo)
+- Part 5: 인증과 세션, 접근제어 미들웨어 (Authentication, Sessions, Access Control Middleware)
+- Part 6: 인터페이스 기본 (Interface Basics)
+- Part 7: 노드 라이브러리 버전들, 제이드 트릭, 에러페이지 (Node Library Versions, Jade Tricks, Error Pages)
+- Part 8: 나타났다 사라지는 메시지와 헬퍼들 (Flash Messages and Helpers)
+- Part 9: 기억해주세요! (Remember Me)
+- Part 10: 마크다운 (Markdown)
+- Part 11: 향상된 테스트 (Better Testing)
+- Part 12: 몽구스 업데이트 하기 (Updating Mongoose)
+- Part 13: 스타일러스 (Stylus)
+- Part 14: 이메일 (Email)
+- Part 15: 노드 버전과 npm 퍼블리싱 (Node Versions, npm Publishing)
+- Part 16: 노드와 익스프레스 업데이트 하기 (Updating to Node and Express)
+- Part 17: UI개선 (UI Improvements)
+- Part 18: 풀 텍스트 검색 (Full Text Search)
+- Part 19: 빽~본! 제이에스 (Backbone.js)
+- Part 20: 백본 제이에스 퍼시스턴스 (Backbone.js Persistence)
+- Part 21: 커넥션 관리 (Connection Management)
+- Part 22: Backbone.js로 검색하기 (Searching with Backbone.js)
+
+#####오프라인
+
+[**첫번째 오프모임**](http://blog.doortts.com/221)
+
+- [Cloud9 IDE에서의 개발 - 형주 님](http://dl.dropbox.com/u/11280485/cloud9-nodepad-송형주.pdf)
+- [자바스크립트 코어 - Prototype Chain & Closure - 병주 님](http://yambbam.kr/octobersky-javascript-prototype-closure.pptx)
+- [node.js 적용 경험담 듣기 - 준호 님](http://firejune.io/)
+- [ECMAScript 변천사 - 응준 님](https://github.com/npcode/stuff/blob/master/JavascriptHistory.md)
