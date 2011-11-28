@@ -1,3 +1,4 @@
+
 One page navigation of studying Node.js
 =======================================
 - [node.js 공식 웹사이트](http://www.nodejs.org/)
@@ -59,11 +60,13 @@ One page navigation of studying Node.js
 ###Node.js 호스팅 서비스 (무료포함)
 - [joyent](http://joyent.com)
 - [fluxflex](http://www.fluxflex.com)
+- [nodester](http://nodester.com/), [nodester관련 Outsider님 글](http://blog.outsider.ne.kr/653)
 
 ###slides
 
 
 ###OctoberSky.js 스터디
+- [온라인 스터디 오리엔테이션](http://blog.doortts.com/206)
 
 #####온라인
 
