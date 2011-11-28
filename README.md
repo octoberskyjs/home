@@ -1,4 +1,3 @@
-
 One page navigation of studying Node.js
 =======================================
 - [node.js 공식 웹사이트](http://www.nodejs.org/)
@@ -31,6 +30,10 @@ One page navigation of studying Node.js
 ###Node.js응용
 - [Node.js 이용해서 chat을 만들어보자01](http://j2p.kr/blog/2011/11/14/node-chat)
 - [Node.js 이용해서 chat을 만들어보자02](http://j2p.kr/blog/2011/11/21/node-chat2)
+- [Node.JS와 Express를 이용한 디렉터리 파싱](http://firejune.com/1718) 
+- [Cluster를 이용한 Node.JS의 멀티-코어 서버 관리](http://firejune.com/1693) 
+- [Node.JS에서 컬러풀한 콘솔 디버깅을 - Clog 배포](http://firejune.com/1701) 
+- [Node.JS에서 대용량 파일 전송을 미친듯 빠르게](http://firejune.com/1716)
 
 ###npm (Node Package Manager)
 - [npm 1.0 간단정리](http://nodejs-kr.org/wordpress/archives/449)
@@ -44,15 +47,21 @@ One page navigation of studying Node.js
 - [express, Node.js 웹 애플리케이션 개발](http://firejune.io/express/)
 - [Jade - 템플릿 엔진 for Node.js](http://blog.doortts.com/223)
 - [Mongoose 온라인 매뉴얼 for mongodb](http://nodejs-kr.org/wordpress/archives/536)
-- [Socket.IO, websocket for node.js](http://yambbam.kr/socket-io.html)
+
+###Socket.IO, websocket for node.js
+- [Socket.IO 매뉴얼](http://yambbam.kr/socket-io.html)
+- [Socket.IO를 이용한 리얼타임웹 구현하기](http://firejune.com/1685) - firejune님
+- [Socket.IO 학습 - 패킷을 절약하여 효율성 높이기](http://firejune.com/1699) - firejune님
+- [Socket.IO 학습 - 퍼블릭/브로드캐스트/프라이빗 구분](http://firejune.com/1700) - firejune님
 
 ###Test Framework
 - [Node.js TDD 프레임워크 Expresso 매뉴얼](http://blog.doortts.com/213)
 - [바우즈(Vows), node.js를 위한 비동기 행위 주도 개발(BDD) 프레임워크](http://blog.doortts.com/220)
 
-###유용한 블로그
+###매우 유용한 블로그
 - [drypot님의 node.js](http://drypot.tumblr.com/tagged/node)
 - [Inside.JS](http://nodejs-kr.org/wordpress/)
+- [firejune님의 node.js](http://firejune.com/tag/Node.JS)
 
 ###번외자료
 - [Javascript Closure](http://nodejs-kr.org/wordpress/archives/508)
@@ -102,3 +111,6 @@ One page navigation of studying Node.js
 - [자바스크립트 코어 - Prototype Chain & Closure - 병주 님](http://yambbam.kr/octobersky-javascript-prototype-closure.pptx)
 - [node.js 적용 경험담 듣기 - 준호 님](http://firejune.io/)
 - [ECMAScript 변천사 - 응준 님](https://github.com/npcode/stuff/blob/master/JavascriptHistory.md)
+
+
+*본 페이지는 octobersky.js 스터디 맴버를 비롯하여 많은 분들의 도움으로 정리된 페이지 입니다. 
