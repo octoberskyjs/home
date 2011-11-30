@@ -1,6 +1,7 @@
 One page navigation of studying Node.js
 =======================================
 - [node.js 공식 웹사이트](http://www.nodejs.org/)
+- [OctoberSky.js 공식 페이스북 페이지](http://www.facebook.com/pages/OctoberSkyjs/101524936627596)
 
 ###Node.js 기초
 - [Node.js란?](http://www.ibm.com/developerworks/kr/library/os-nodejs/index.html) - IBM dW기사
