@@ -74,6 +74,7 @@ One page navigation of studying Node.js
 - [nodester](http://nodester.com/), [nodester관련 Outsider님 글](http://blog.outsider.ne.kr/653)
 
 ###slides
+- [‎10gen의 nodejs와 mongodb를 함께 쓰는 방법에 대한 소개자료](http://www.10gen.com/presentations/mongohamburg-2011/an-introduction-nodejs-mongodb-driver)
 
 
 ###OctoberSky.js 스터디
