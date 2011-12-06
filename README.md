@@ -87,7 +87,7 @@ One page navigation of studying Node.js
 - [Part 3: RESTful 메소드와 테스트 (RESTful Methods and Testing)](http://blog.doortts.com/215)
 - [Part 4: 템플릿, 파셜, 그리고 문서 생성과 수정 (Templates, - Partials, Creating and Editing Documents)](http://blog.doortts.com/224)
   . [여기까지의 소스코드](https://github.com/iamhjoo/nodepad_iamhjoo)
-- Part 5: 인증과 세션, 접근제어 미들웨어 (Authentication, Sessions, Access Control Middleware)(http://blog.doortts.com/232)
+- [Part 5: 인증과 세션, 접근제어 미들웨어 (Authentication, Sessions, Access Control Middleware)](http://blog.doortts.com/232)
 - Part 6: 인터페이스 기본 (Interface Basics)
 - Part 7: 노드 라이브러리 버전들, 제이드 트릭, 에러페이지 (Node Library Versions, Jade Tricks, Error Pages)
 - Part 8: 나타났다 사라지는 메시지와 헬퍼들 (Flash Messages and Helpers)
