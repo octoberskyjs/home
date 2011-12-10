@@ -26,7 +26,7 @@ One page navigation of studying Node.js
 ###Node.js 가이드 문서들
 - [Felix's Node.js Guide](http://nodeguide.com/) - [번역사이트](http://nodeguide.atelier.weaveus.com/)
 - [Node Tuts](http://nodetuts.com/) - 동영상 튜토리얼
-- [The Node Beginner Book](http://nodebeginner.org/) - 번역중
+- [The Node Beginner Book](http://www.nodebeginner.org/index-kr.html) - 번역완료!!
 
 ###Node.js응용
 - [Node.js 이용해서 chat을 만들어보자01](http://blog.j2p.kr/blog/2011/11/14/node-chat/)
@@ -88,7 +88,7 @@ One page navigation of studying Node.js
 - [Part 4: 템플릿, 파셜, 그리고 문서 생성과 수정 (Templates, - Partials, Creating and Editing Documents)](http://blog.doortts.com/224)
   . [여기까지의 소스코드](https://github.com/iamhjoo/nodepad_iamhjoo)
 - [Part 5: 인증과 세션, 접근제어 미들웨어 (Authentication, Sessions, Access Control Middleware)](http://blog.doortts.com/232)
-- Part 6: 인터페이스 기본 (Interface Basics)
+- [Part 6: 인터페이스 기본 (Interface Basics)](http://blog.doortts.com/233)
 - Part 7: 노드 라이브러리 버전들, 제이드 트릭, 에러페이지 (Node Library Versions, Jade Tricks, Error Pages)
 - Part 8: 나타났다 사라지는 메시지와 헬퍼들 (Flash Messages and Helpers)
 - Part 9: 기억해주세요! (Remember Me)
