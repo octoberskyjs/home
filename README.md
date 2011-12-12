@@ -24,9 +24,9 @@ One page navigation of studying Node.js
 - [node.js에서 비동기로 코드 디자인하기](http://nodejs-kr.org/wordpress/archives/531)
 
 ###Node.js 가이드 문서들
-- [Felix's Node.js Guide](http://nodeguide.com/) - [번역사이트](http://nodeguide.atelier.weaveus.com/)
-- [Node Tuts](http://nodetuts.com/) - 동영상 튜토리얼
 - [The Node Beginner Book](http://www.nodebeginner.org/index-kr.html) - 번역완료!!
+- [Felix's Node.js Guide](http://nodeguide.com/) - [한글사이트](http://nodeguide.atelier.weaveus.com/)
+- [Node Tuts](http://nodetuts.com/) - 동영상으로 배우는 튜토리얼
 
 ###Node.js응용
 - [Node.js 이용해서 chat을 만들어보자01](http://blog.j2p.kr/blog/2011/11/14/node-chat/)
@@ -49,6 +49,8 @@ One page navigation of studying Node.js
 - [express, Node.js 웹 애플리케이션 개발](http://firejune.io/express/)
 - [Jade - 템플릿 엔진 for Node.js](http://blog.doortts.com/223)
 - [Mongoose 온라인 매뉴얼 for mongodb](http://nodejs-kr.org/wordpress/archives/536)
+- [dnode - node.js 유용한 모듈 (1)](http://nodejs-kr.org/wordpress/archives/609)
+- [optimist - node.js 유용한 모듈 (2)](http://nodejs-kr.org/wordpress/archives/625)
 
 ###Socket.IO, websocket for node.js
 - [Socket.IO 매뉴얼](http://yambbam.kr/socket-io.html)
@@ -117,3 +119,4 @@ One page navigation of studying Node.js
 
 
 *본 페이지는 octobersky.js 스터디 맴버를 비롯하여 많은 분들의 도움으로 정리된 페이지 입니다. 
+(octobersky.js 스터디 모임의 특징 중 하나는 맴버들이 자신의 블로그나 기타 장소에 자료나 번역등을 올리고 그걸 하나로 묶는 형태입니다. 단 보시는 바와 같이 하나의 거대한 공통 주제와 카테고리로 내용을 묶어서 볼 수 있도록 도와줍니다. 새로운 형태의 스터디인 SCS(Social Colouding Study)입니다.)
