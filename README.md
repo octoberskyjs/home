@@ -48,9 +48,9 @@ One page navigation of studying Node.js
 ###관련 모듈 및 프레임워크
 - [express, Node.js 웹 애플리케이션 개발](http://firejune.io/express/)
 - [Jade - 템플릿 엔진 for Node.js](http://blog.doortts.com/223)
-- [Mongoose 온라인 매뉴얼 for mongodb](http://nodejs-kr.org/wordpress/archives/536)
-- [dnode - node.js 유용한 모듈 (1)](http://nodejs-kr.org/wordpress/archives/609)
-- [optimist - node.js 유용한 모듈 (2)](http://nodejs-kr.org/wordpress/archives/625)
+- [Mongoose 온라인 매뉴얼 for mongodb](http://nodejs-kr.org/insidejs/archives/536)
+- [dnode - node.js 유용한 모듈 (1)](http://nodejs-kr.org/insidejs/archives/609)
+- [optimist - node.js 유용한 모듈 (2)](http://nodejs-kr.org/insidejs/archives/625)
 
 ###Socket.IO, websocket for node.js
 - [Socket.IO 매뉴얼](http://yambbam.kr/socket-io.html)
@@ -64,7 +64,7 @@ One page navigation of studying Node.js
 
 ###매우 유용한 블로그
 - [drypot님의 node.js](http://drypot.tumblr.com/tagged/node)
-- [Inside.JS](http://nodejs-kr.org/wordpress/)
+- [Inside.JS](http://nodejs-kr.org/insidejs/)
 - [firejune님의 node.js](http://firejune.com/tag/Node.JS)
 
 ###번외자료
