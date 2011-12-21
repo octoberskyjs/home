@@ -49,8 +49,16 @@ One page navigation of studying Node.js
 - [express, Node.js 웹 애플리케이션 개발](http://firejune.io/express/)
 - [Jade - 템플릿 엔진 for Node.js](http://blog.doortts.com/223)
 - [Mongoose 온라인 매뉴얼 for mongodb](http://nodejs-kr.org/insidejs/archives/536)
-- [dnode - node.js 유용한 모듈 (1)](http://nodejs-kr.org/insidejs/archives/609)
-- [optimist - node.js 유용한 모듈 (2)](http://nodejs-kr.org/insidejs/archives/625)
+- [dnode (RPC 라이브러리) - node.js 유용한 모듈 (1)](http://nodejs-kr.org/insidejs/archives/609)
+- [optimist (옵션 파서) - node.js 유용한 모듈 (2)](http://nodejs-kr.org/insidejs/archives/625)
+- [lazy (lazy 리스트 처리) - node.js 유용한 모듈 (3)](http://nodejs-kr.org/insidejs/archives/631)
+- [request (HTTP 스트림 처리) - node.js 유용한 모듈 (4)](http://nodejs-kr.org/insidejs/archives/634)
+- [hashish (해시 처리) - node.js 유용한 모듈 (5)](http://nodejs-kr.org/insidejs/archives/638)
+- [read (쉬운 표준 입력 처리) - node.js 유용한 모듈 (6)](http://nodejs-kr.org/insidejs/archives/653)
+- [ntwitter (트위터 API) - node.js 유용한 모듈 (7)](http://nodejs-kr.org/insidejs/archives/661)
+- [socket.io (웹소켓 통신) - node.js 유용한 모듈 (8)](http://nodejs-kr.org/insidejs/archives/704)
+- [redis (redis 클라이언트 라이브러리) - node.js 유용한 모듈 (9)](http://nodejs-kr.org/insidejs/archives/719)
+- [express (웹 프레임워크) - node.js 유용한 모듈 (10)](http://nodejs-kr.org/insidejs/archives/745)
 
 ###Socket.IO, websocket for node.js
 - [Socket.IO 매뉴얼](http://yambbam.kr/socket-io.html)
