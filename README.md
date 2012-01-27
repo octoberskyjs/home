@@ -19,9 +19,9 @@ One page navigation of studying Node.js
 - [node.js 0.6 stable 릴리즈 내용](http://blog.doortts.com/216)
 
 ###Node.js 기초 다음
-- [node에서 모듈 로드하기](http://nodejs-kr.org/wordpress/archives/457)
-- [node.js의 connect 이해하기](http://nodejs-kr.org/wordpress/archives/467)
-- [node.js에서 비동기로 코드 디자인하기](http://nodejs-kr.org/wordpress/archives/531)
+- [node에서 모듈 로드하기](http://nodejs-kr.org/insidejs/archives/457)
+- [node.js의 connect 이해하기](http://nodejs-kr.org/insidejs/archives/467)
+- [node.js에서 비동기로 코드 디자인하기](http://nodejs-kr.org/insidejs/archives/531)
 
 ###Node.js 가이드 문서들
 - [The Node Beginner Book](http://www.nodebeginner.org/index-kr.html) - 번역완료!!
