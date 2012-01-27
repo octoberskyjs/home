@@ -38,7 +38,7 @@ One page navigation of studying Node.js
 - [Node.JS에서 대용량 파일 전송을 미친듯 빠르게](http://firejune.com/1716)
 
 ###npm (Node Package Manager)
-- [npm 1.0 간단정리](http://nodejs-kr.org/wordpress/archives/449)
+- [npm 1.0 간단정리](http://nodejs-kr.org/insidejs/archives/449)
 - [npm FAQ](http://blog.doortts.com/225)
 - [npm, 전역설치 및 지역설치](http://blog.doortts.com/226)
 
@@ -76,7 +76,7 @@ One page navigation of studying Node.js
 - [firejune님의 node.js](http://firejune.com/tag/Node.JS)
 
 ###번외자료
-- [Javascript Closure](http://nodejs-kr.org/wordpress/archives/508)
+- [Javascript Closure](http://nodejs-kr.org/insidejs/archives/508)
 
 ###Node.js 호스팅 서비스 (무료포함)
 - [joyent](http://joyent.com)
