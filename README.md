@@ -9,6 +9,7 @@ One page navigation of studying Node.js
 - [왜 Node.js인가?](http://blog.doortts.com/219)
 - [Introduction to Node.js with Ryan Dahl, 소개 동영상](http://www.youtube.com/watch?v=jo_B4LTHi3I)  
   . OctoberSky.js 에서 온라인 스터디의 일환으로 [함께 보기](http://blog.doortts.com/208) 시간을 가짐.
+- [node.js를 학습하는 사람이라면 꼭 봐둬야 할 Node.js 소개 동영상 해설서](http://blog.doortts.com/253)
 - [Node.js Beginners Guide](http://nodeguide.atelier.weaveus.com/beginner.html)
 - [Node.js Style Guide](http://nodeguide.atelier.weaveus.com/style.html) 
 - [node.js를 사용하도록 boss를 설득시키는 가이드](http://nodeguide.atelier.weaveus.com/convincing_the_boss.html)
@@ -99,7 +100,7 @@ One page navigation of studying Node.js
   . [여기까지의 소스코드](https://github.com/iamhjoo/nodepad_iamhjoo)
 - [Part 5: 인증과 세션, 접근제어 미들웨어 (Authentication, Sessions, Access Control Middleware)](http://blog.doortts.com/232)
 - [Part 6: 인터페이스 기본 (Interface Basics)](http://blog.doortts.com/233)
-- Part 7: 노드 라이브러리 버전들, 제이드 트릭, 에러페이지 (Node Library Versions, Jade Tricks, Error Pages)
+- [Part 7: 노드 라이브러리 버전들, 제이드 트릭, 에러페이지 (Node Library Versions, Jade Tricks, Error Pages)](http://blog.doortts.com/242)
 - Part 8: 나타났다 사라지는 메시지와 헬퍼들 (Flash Messages and Helpers)
 - Part 9: 기억해주세요! (Remember Me)
 - Part 10: 마크다운 (Markdown)
