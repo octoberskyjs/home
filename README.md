@@ -9,7 +9,7 @@ One page navigation of studying Node.js
 - [왜 Node.js인가?](http://blog.doortts.com/219)
 - [Introduction to Node.js with Ryan Dahl, 소개 동영상](http://www.youtube.com/watch?v=jo_B4LTHi3I)  
   . OctoberSky.js 에서 온라인 스터디의 일환으로 [함께 보기](http://blog.doortts.com/208) 시간을 가짐.
-- [node.js를 학습하는 사람이라면 꼭 봐둬야 할 Node.js 소개 동영상 해설서](http://blog.doortts.com/253)
+- [node.js를 학습하는 사람이라면 꼭 봐둬야 할 Node.js 소개 동영상 해설서(추천)](http://blog.doortts.com/253)
 - [Node.js Beginners Guide](http://nodeguide.atelier.weaveus.com/beginner.html)
 - [Node.js Style Guide](http://nodeguide.atelier.weaveus.com/style.html) 
 - [node.js를 사용하도록 boss를 설득시키는 가이드](http://nodeguide.atelier.weaveus.com/convincing_the_boss.html)
@@ -28,6 +28,10 @@ One page navigation of studying Node.js
 - [The Node Beginner Book](http://www.nodebeginner.org/index-kr.html) - 번역완료!!
 - [Felix's Node.js Guide](http://nodeguide.com/) - [한글사이트](http://nodeguide.atelier.weaveus.com/)
 - [Node Tuts](http://nodetuts.com/) - 동영상으로 배우는 튜토리얼
+
+### Node 디버깅(debugging)
+- [Node-Inspector :크롬 브라우저를 이용하는 방법](https://github.com/dannycoates/node-inspector)
+- [이클립스를 이용하는 경우](https://github.com/joyent/node/wiki/Using-Eclipse-as-Node-Applications-Debugger)
 
 ###Node.js응용
 - [Node.js 이용해서 chat을 만들어보자01](http://blog.j2p.kr/blog/2011/11/14/node-chat/)
@@ -117,7 +121,7 @@ One page navigation of studying Node.js
 - Part 21: 커넥션 관리 (Connection Management)
 - Part 22: Backbone.js로 검색하기 (Searching with Backbone.js)
 
-#####오프라인
+##### 모임 및 행사
 
 [**첫번째 오프모임**](http://blog.doortts.com/221)
 
@@ -126,6 +130,11 @@ One page navigation of studying Node.js
 - [node.js 적용 경험담 듣기 - 준호 님](http://firejune.io/)
 - [ECMAScript 변천사 - 응준 님](https://github.com/npcode/stuff/blob/master/JavascriptHistory.md)
 
+[**동영상 함께보기 온라인 모임**]
+
+- 1회 모임 (http://blog.doortts.com/208)
+- 2회 모임 (http://blog.doortts.com/248)
 
 *본 페이지는 octobersky.js 스터디 맴버를 비롯하여 많은 분들의 도움으로 정리된 페이지 입니다. 
-(octobersky.js 스터디 모임의 특징 중 하나는 맴버들이 자신의 블로그나 기타 장소에 자료나 번역등을 올리고 그걸 하나로 묶는 형태입니다. 단 보시는 바와 같이 하나의 거대한 공통 주제와 카테고리로 내용을 묶어서 볼 수 있도록 도와줍니다. 새로운 형태의 스터디인 SCS(Social Colouding Study)입니다.)
+
+octobersky.js 스터디 모임의 특징 중 하나는 맴버들이 자신의 블로그나 기타 장소에 자료나 번역등을 올리고 그걸 하나로 묶는 형태입니다. 단 보시는 바와 같이 하나의 거대한 공통 주제와 카테고리로 내용을 묶어서 볼 수 있도록 도와줍니다. 새로운 형태의 스터디인 SCS(Social Crowd Study)입니다.
