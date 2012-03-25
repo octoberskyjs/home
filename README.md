@@ -10,10 +10,10 @@ One page navigation of studying Node.js
 - [Introduction to Node.js with Ryan Dahl, 소개 동영상](http://www.youtube.com/watch?v=jo_B4LTHi3I)  
   . OctoberSky.js 에서 온라인 스터디의 일환으로 [함께 보기](http://blog.doortts.com/208) 시간을 가짐.
 - [node.js를 학습하는 사람이라면 꼭 봐둬야 할 Node.js 소개 동영상 해설서(추천)](http://blog.doortts.com/253)
-- [Node.js Beginners Guide](http://nodeguide.atelier.weaveus.com/beginner.html)
-- [Node.js Style Guide](http://nodeguide.atelier.weaveus.com/style.html) 
-- [node.js를 사용하도록 boss를 설득시키는 가이드](http://nodeguide.atelier.weaveus.com/convincing_the_boss.html)
-- [Node.js Community Guide](http://nodeguide.atelier.weaveus.com/community.html)
+- [Node.js Beginners Guide](http://pismute.github.com/nodeguide.com/beginner.html)
+- [Node.js Style Guide](http://pismute.github.com/nodeguide.com/style.html)
+- [node.js를 사용하도록 boss를 설득시키는 가이드](http://pismute.github.com/nodeguide.com/convincing_the_boss.html)
+- [Node.js Community Guide](http://pismute.github.com/nodeguide.com/community.html)
 
 ###Node.js API 
 - [한글 매뉴얼 (v0.2.6)](http://nodejs-kr.org/apis/api026.html)
@@ -26,7 +26,7 @@ One page navigation of studying Node.js
 
 ###Node.js 가이드 문서들
 - [The Node Beginner Book](http://www.nodebeginner.org/index-kr.html) - 번역완료!!
-- [Felix's Node.js Guide](http://nodeguide.com/) - [한글사이트](http://nodeguide.atelier.weaveus.com/)
+- [Felix's Node.js Guide](http://nodeguide.com/) - [한글사이트](http://pismute.github.com/nodeguide.com/)
 - [Node Tuts](http://nodetuts.com/) - 동영상으로 배우는 튜토리얼
 
 ### Node 디버깅(debugging)
@@ -46,6 +46,7 @@ One page navigation of studying Node.js
 - [npm 1.0 간단정리](http://nodejs-kr.org/insidejs/archives/449)
 - [npm FAQ](http://blog.doortts.com/225)
 - [npm, 전역설치 및 지역설치](http://blog.doortts.com/226)
+- [npm tricks](http://dogfeet.github.com/articles/2012/npm-tricks.html)
 
 ###Common.js
 - [CommonJS, node.js의 모듈 규칙](http://blog.sangpire.pe.kr/tag/Commonjs)
