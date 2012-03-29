@@ -5,6 +5,8 @@
   맴버들이 자신의 블로그나 기타 장소에 자료나 번역등을 올리고 그걸 하나로 묶는 형태입니다. 
   단 보시는 바와 같이 각자 작업한 내용을 하나의 거대한 공통 주제와 카테고리로 내용을 묶어서 볼 수 있도록  돕는
   새로운 형태의 스터디인 SCS(Social Crowd Study)입니다.
+  
+  참여하고 싶으신 분은 글을 작성하신다음 pull reqeust 해 주세요. :)
 ```
 
 One page navigation of studying Node.js
