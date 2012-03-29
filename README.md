@@ -1,5 +1,15 @@
+본 페이지는 octobersky.js 스터디 맴버를 비롯하여 많은 분들의 도움으로 정리된 한 페이지짜리 가이드입니다.
+
+```
+  octobersky.js 스터디 모임의 특징 중 하나는 
+  맴버들이 자신의 블로그나 기타 장소에 자료나 번역등을 올리고 그걸 하나로 묶는 형태입니다. 
+  단 보시는 바와 같이 각자 작업한 내용을 하나의 거대한 공통 주제와 카테고리로 내용을 묶어서 볼 수 있도록  돕는
+  새로운 형태의 스터디인 SCS(Social Crowd Study)입니다.
+```
+
 One page navigation of studying Node.js
 =======================================
+
 - [node.js 공식 웹사이트](http://www.nodejs.org/)
 - [OctoberSky.js 공식 페이스북 페이지](http://www.facebook.com/octoberskyjs)
 
@@ -136,6 +146,3 @@ One page navigation of studying Node.js
 - 1회 모임 (http://blog.doortts.com/208)
 - 2회 모임 (http://blog.doortts.com/248)
 
-*본 페이지는 octobersky.js 스터디 맴버를 비롯하여 많은 분들의 도움으로 정리된 페이지 입니다. 
-
-octobersky.js 스터디 모임의 특징 중 하나는 맴버들이 자신의 블로그나 기타 장소에 자료나 번역등을 올리고 그걸 하나로 묶는 형태입니다. 단 보시는 바와 같이 하나의 거대한 공통 주제와 카테고리로 내용을 묶어서 볼 수 있도록 도와줍니다. 새로운 형태의 스터디인 SCS(Social Crowd Study)입니다.
