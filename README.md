@@ -6,7 +6,7 @@
   단 보시는 바와 같이 각자 작업한 내용을 하나의 거대한 공통 주제와 카테고리로 내용을 묶어서 볼 수 있도록  돕는
   새로운 형태의 스터디인 SCS(Social Crowd Study)입니다.
   
-  참여하고 싶으신 분은 글을 작성하신다음 pull reqeust 해 주세요. :)
+  함께 참여 하실 분은 글을 작성하신다음 pull reqeust 주세요. :)
 ```
 
 One page navigation of studying Node.js
