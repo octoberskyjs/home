@@ -59,6 +59,7 @@ One page navigation of studying Node.js
 - [npm FAQ](http://blog.doortts.com/225)
 - [npm, 전역설치 및 지역설치](http://blog.doortts.com/226)
 - [npm tricks](http://dogfeet.github.com/articles/2012/npm-tricks.html)
+- [npm private repository 만들기](http://kyungw00k.wordpress.com/2011/06/21/npm-private-repository-만들기/)
 
 ###Common.js
 - [CommonJS, node.js의 모듈 규칙](http://blog.sangpire.pe.kr/tag/Commonjs)
@@ -87,6 +88,11 @@ One page navigation of studying Node.js
 ###Test Framework
 - [Node.js TDD 프레임워크 Expresso 매뉴얼](http://blog.doortts.com/213)
 - [바우즈(Vows), node.js를 위한 비동기 행위 주도 개발(BDD) 프레임워크](http://blog.doortts.com/220)
+
+### Hardware with nodeJS
+- [nodejs로 Arduino 제어하기 #1](http://kyungw00k.wordpress.com/2011/11/21/nodejs로-arduino-제어하기-1/)
+- [nodejs로 Arduino 제어하기 #2](http://kyungw00k.wordpress.com/2011/11/22/nodejs로-arduino-제어하기-2/)
+- [BeagleBone에서 nodejs 소스 빌드하기](http://kyungw00k.wordpress.com/2012/02/13/beaglebone에서-nodejs-source-build-하기/)
 
 ###매우 유용한 블로그
 - [drypot님의 node.js](http://drypot.tumblr.com/tagged/node)
