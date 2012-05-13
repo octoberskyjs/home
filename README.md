@@ -26,10 +26,13 @@ One page navigation of studying Node.js
 - [Node.js Style Guide](http://pismute.github.com/nodeguide.com/style.html)
 - [node.js를 사용하도록 boss를 설득시키는 가이드](http://pismute.github.com/nodeguide.com/convincing_the_boss.html)
 - [Node.js Community Guide](http://pismute.github.com/nodeguide.com/community.html)
+- [Exception error handling](http://nodeqa.com/nodejs_ref/1)
+- [module.exports === exports // true, 하지만, call by reference를 지키지 않으면 둘중 하나는 죽는다.](http://nodeqa.com/nodejs_ref/7)
 
 ###Node.js API 
 - [한글 매뉴얼 (v0.2.6)](http://nodejs-kr.org/apis/api026.html)
 - [node.js 0.6 stable 릴리즈 내용](http://blog.doortts.com/216)
+- [Nodeman, Cli manual](http://nodeman.org/)
 
 ###Node.js 기초 다음
 - [node에서 모듈 로드하기](http://nodejs-kr.org/insidejs/archives/457)
@@ -53,6 +56,7 @@ One page navigation of studying Node.js
 - [Cluster를 이용한 Node.JS의 멀티-코어 서버 관리](http://firejune.com/1693) 
 - [Node.JS에서 컬러풀한 콘솔 디버깅을 - Clog 배포](http://firejune.com/1701) 
 - [Node.JS에서 대용량 파일 전송을 미친듯 빠르게](http://firejune.com/1716)
+- [Socket.io.js 파일의 캐쉬는 어떻게 되는가?](http://nodeqa.com/nodejs_ref/15)
 
 ###npm (Node Package Manager)
 - [npm 1.0 간단정리](http://nodejs-kr.org/insidejs/archives/449)
@@ -93,6 +97,10 @@ One page navigation of studying Node.js
 - [nodejs로 Arduino 제어하기 #1](http://kyungw00k.wordpress.com/2011/11/21/nodejs로-arduino-제어하기-1/)
 - [nodejs로 Arduino 제어하기 #2](http://kyungw00k.wordpress.com/2011/11/22/nodejs로-arduino-제어하기-2/)
 - [BeagleBone에서 nodejs 소스 빌드하기](http://kyungw00k.wordpress.com/2012/02/13/beaglebone에서-nodejs-source-build-하기/)
+
+###Happy Hacking
+- [첫번째 이야기 (nodejs native module의 build과정, global 객체로 원하는 module 선언하기)](http://nodeqa.com/nodejs_ref/10)
+- [두번째 이야기 (nodejs 프로그래밍 구성, v8 cpp에서 javascript가 인식되는 초입과정)](http://nodeqa.com/nodejs_ref/14)
 
 ###매우 유용한 블로그
 - [drypot님의 node.js](http://drypot.tumblr.com/tagged/node)
