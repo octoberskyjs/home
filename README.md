@@ -157,6 +157,9 @@ One page navigation of studying Node.js
 - [node.js 적용 경험담 듣기 - 준호 님](http://firejune.io/)
 - [ECMAScript 변천사 - 응준 님](https://github.com/npcode/stuff/blob/master/JavascriptHistory.md)
 
+[세번째 오프모임]
+- [Flow Control in Node.js - 송형주](https://docs.google.com/presentation/d/1ez7wH30nwR1Km9G1-x7nAdIxchBw8nXO4p9pJdaFtR0/edit)
+
 [**동영상 함께보기 온라인 모임**]
 
 - 1회 모임 (http://blog.doortts.com/208)
