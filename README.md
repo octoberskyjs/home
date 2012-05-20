@@ -33,6 +33,7 @@ One page navigation of studying Node.js
 - [한글 매뉴얼 (v0.2.6)](http://nodejs-kr.org/apis/api026.html)
 - [node.js 0.6 stable 릴리즈 내용](http://blog.doortts.com/216)
 - [Nodeman, Cli manual](http://nodeman.org/)
+- [node.js: modules(v0.6.14)](http://dogfeet.github.com/articles/2012/nodejs-modules.html)
 
 ###Node.js 기초 다음
 - [node에서 모듈 로드하기](http://nodejs-kr.org/insidejs/archives/457)
