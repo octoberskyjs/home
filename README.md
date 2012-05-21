@@ -107,6 +107,7 @@ One page navigation of studying Node.js
 - [drypot님의 node.js](http://drypot.tumblr.com/tagged/node)
 - [Inside.JS](http://nodejs-kr.org/insidejs/)
 - [firejune님의 node.js](http://firejune.com/tag/Node.JS)
+- [Outsider's Dev Story](http://blog.outsider.ne.kr/category/node.js)
 
 ###번외자료
 - [Javascript Closure](http://nodejs-kr.org/insidejs/archives/508)
