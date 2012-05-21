@@ -70,6 +70,7 @@ One page navigation of studying Node.js
 - [CommonJS, node.js의 모듈 규칙](http://blog.sangpire.pe.kr/tag/Commonjs)
 
 ###관련 모듈 및 프레임워크
+- [NodeJS Package Browser](http://geekple.com/nodejs): Dani님이 만든 Node.js 모듈검색 사이트
 - [express, Node.js 웹 애플리케이션 개발](http://firejune.io/express/)
 - [Jade - 템플릿 엔진 for Node.js](http://blog.doortts.com/223)
 - [Mongoose 온라인 매뉴얼 for mongodb](http://nodejs-kr.org/insidejs/archives/536)
