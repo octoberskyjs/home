@@ -9,8 +9,8 @@
     함께 참여 하실 분은 글을 작성하신 후 pull reqeust 보내 주세요. :)
 ```
 
-One page navigation of studying Node.js
-=======================================
+One page navigation guide for node.js study
+================================
 
 - [node.js 공식 웹사이트](http://www.nodejs.org/)
 - [OctoberSky.js 공식 페이스북 페이지](http://www.facebook.com/octoberskyjs)
