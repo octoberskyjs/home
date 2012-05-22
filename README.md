@@ -70,6 +70,7 @@ One page navigation of studying Node.js
 - [CommonJS, node.js의 모듈 규칙](http://blog.sangpire.pe.kr/tag/Commonjs)
 
 ###관련 모듈 및 프레임워크
+- [NodeJS Package Browser](http://geekple.com/nodejs): Dani님이 만든 Node.js 모듈검색 사이트
 - [express, Node.js 웹 애플리케이션 개발](http://firejune.io/express/)
 - [Jade - 템플릿 엔진 for Node.js](http://blog.doortts.com/223)
 - [Mongoose 온라인 매뉴얼 for mongodb](http://nodejs-kr.org/insidejs/archives/536)
@@ -107,6 +108,7 @@ One page navigation of studying Node.js
 - [drypot님의 node.js](http://drypot.tumblr.com/tagged/node)
 - [Inside.JS](http://nodejs-kr.org/insidejs/)
 - [firejune님의 node.js](http://firejune.com/tag/Node.JS)
+- [Outsider's Dev Story](http://blog.outsider.ne.kr/category/node.js)
 
 ###번외자료
 - [Javascript Closure](http://nodejs-kr.org/insidejs/archives/508)
@@ -160,6 +162,11 @@ One page navigation of studying Node.js
 
 세번째 오프모임
 - [Flow Control in Node.js - 송형주](https://docs.google.com/presentation/d/1ez7wH30nwR1Km9G1-x7nAdIxchBw8nXO4p9pJdaFtR0/edit)
+- 후기
+    - [너구리님의 후기](http://blog.doortts.com/265)
+    - [이광운님의 후기](http://codeinside.tumblr.com/post/23009870752/octoberskyjs)
+    - [김주회님의 후기](http://juhoi.tistory.com/60
+    - [Outsider님의 후기](http://blog.outsider.ne.kr/787)
 
 [**동영상 함께보기 온라인 모임**]
 
