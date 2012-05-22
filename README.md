@@ -169,7 +169,7 @@ One page navigation of studying Node.js
 - 후기
     - [너구리님의 후기](http://blog.doortts.com/265)
     - [광운님의 후기](http://codeinside.tumblr.com/post/23009870752/octoberskyjs)
-    - [주회님의 후기](http://juhoi.tistory.com/60
+    - [주회님의 후기](http://juhoi.tistory.com/60)
     - [Outsider님의 후기](http://blog.outsider.ne.kr/787)
 
 [**동영상 함께보기 온라인 모임**]
