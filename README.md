@@ -1,12 +1,12 @@
 본 페이지는 octobersky.js 스터디 맴버를 비롯하여 많은 분들의 도움으로 정리된 한 페이지짜리 가이드입니다.
 
 ```
-  octobersky.js 스터디 모임의 특징 중 하나는 
-  맴버들이 자신의 블로그나 기타 장소에 자료나 번역등을 올리고 그걸 하나로 묶는 형태입니다. 
-  단 보시는 바와 같이 각자 작업한 내용을 하나의 거대한 공통 주제와 카테고리로 내용을 묶어서 볼 수 있도록  돕는
-  새로운 형태의 스터디인 SCS(Social Crowd Study)입니다.
-  
-  함께 참여 하실 분은 글을 작성하신다음 pull reqeust 주세요. :)
+    OctoberSky.js 스터디 모임의 특징 중 하나는 맴버들이 자신의 블로그나 기타 장소에 자료나 번역등을 올리고
+    그걸 하나로 묶는 형태입니다. 보시는 바와 같이 각자 작업한 내용을 하나의 공통 주제와 카테고리로 내용을
+    묶어서 학습을 하거나 개발을 하시는 분들이 쉽게 찾아 볼 수 있도록 돕는 
+    새로운 형태의 SNS(Social Network Study)입니다.
+
+    함께 참여 하실 분은 글을 작성하신 후 pull reqeust 보내 주세요. :)
 ```
 
 One page navigation of studying Node.js
@@ -14,6 +14,7 @@ One page navigation of studying Node.js
 
 - [node.js 공식 웹사이트](http://www.nodejs.org/)
 - [OctoberSky.js 공식 페이스북 페이지](http://www.facebook.com/octoberskyjs)
+- [OctoberSky.js 가이드 페이지](http://nodejskr.org) : 지금 보시는 이곳! (aka nodejskr.org)
 
 ###Node.js 기초
 - [Node.js란?](http://www.ibm.com/developerworks/kr/library/os-nodejs/index.html) - IBM dW기사
@@ -32,7 +33,6 @@ One page navigation of studying Node.js
 ###Node.js API 
 - [한글 매뉴얼 (v0.2.6)](http://nodejs-kr.org/apis/api026.html)
 - [node.js 0.6 stable 릴리즈 내용](http://blog.doortts.com/216)
-- [Nodeman, Cli manual](http://nodeman.org/)
 - [node.js: modules(v0.6.14)](http://dogfeet.github.com/articles/2012/nodejs-modules.html)
 
 ###Node.js 기초 다음
@@ -69,11 +69,16 @@ One page navigation of studying Node.js
 ###Common.js
 - [CommonJS, node.js의 모듈 규칙](http://blog.sangpire.pe.kr/tag/Commonjs)
 
-###관련 모듈 및 프레임워크
-- [NodeJS Package Browser](http://geekple.com/nodejs): Dani님이 만든 Node.js 모듈검색 사이트
+### Web개발을 위한 모듈: Express, Jade, Mongoose
 - [express, Node.js 웹 애플리케이션 개발](http://firejune.io/express/)
 - [Jade - 템플릿 엔진 for Node.js](http://blog.doortts.com/223)
 - [Mongoose 온라인 매뉴얼 for mongodb](http://nodejs-kr.org/insidejs/archives/536)
+
+### Node Api, module 검색
+- [Nodeman, Cli manual](http://nodeman.org/): 커맨드 라인으로 노드 매뉴얼 보기
+- [NodeJS Package Browser](http://geekple.com/nodejs): Dani님이 만든 Node.js 모듈검색 사이트
+
+### nodejs-kr.org의 유용한 모듈 번역 시리즈 
 - [dnode (RPC 라이브러리) - node.js 유용한 모듈 (1)](http://nodejs-kr.org/insidejs/archives/609)
 - [optimist (옵션 파서) - node.js 유용한 모듈 (2)](http://nodejs-kr.org/insidejs/archives/625)
 - [lazy (lazy 리스트 처리) - node.js 유용한 모듈 (3)](http://nodejs-kr.org/insidejs/archives/631)
@@ -121,7 +126,6 @@ One page navigation of studying Node.js
 ###slides
 - [‎10gen의 nodejs와 mongodb를 함께 쓰는 방법에 대한 소개자료](http://www.10gen.com/presentations/mongohamburg-2011/an-introduction-nodejs-mongodb-driver)
 
-
 ###OctoberSky.js 스터디
 - [온라인 스터디 오리엔테이션](http://blog.doortts.com/206)
 
@@ -164,8 +168,8 @@ One page navigation of studying Node.js
 - [Flow Control in Node.js - 송형주](https://docs.google.com/presentation/d/1ez7wH30nwR1Km9G1-x7nAdIxchBw8nXO4p9pJdaFtR0/edit)
 - 후기
     - [너구리님의 후기](http://blog.doortts.com/265)
-    - [이광운님의 후기](http://codeinside.tumblr.com/post/23009870752/octoberskyjs)
-    - [김주회님의 후기](http://juhoi.tistory.com/60
+    - [광운님의 후기](http://codeinside.tumblr.com/post/23009870752/octoberskyjs)
+    - [주회님의 후기](http://juhoi.tistory.com/60
     - [Outsider님의 후기](http://blog.outsider.ne.kr/787)
 
 [**동영상 함께보기 온라인 모임**]
