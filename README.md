@@ -114,6 +114,7 @@ One page navigation guide for node.js study
 - [Inside.JS](http://nodejs-kr.org/insidejs/)
 - [firejune님의 node.js](http://firejune.com/tag/Node.JS)
 - [Outsider's Dev Story](http://blog.outsider.ne.kr/category/node.js)
+- [nanhapark님의 Node.js Q&A, nanhapark에게 질문을 할 수 있고, 의견도 나눌 수 있습니다.](http://nodeqa.com)
 
 ###번외자료
 - [Javascript Closure](http://nodejs-kr.org/insidejs/archives/508)
