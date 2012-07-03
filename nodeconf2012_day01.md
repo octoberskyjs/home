@@ -5,7 +5,8 @@ Nodeconf 2012 Day01 Sessions wrap-up
 
 > 한국에 돌아오면 랩업 공유 모임을 가질 예정입니다만, 그 전에 먼저 모인 사람들끼리 컨퍼런스 첫 날에 대한 랩업의 시간을 가지기로 하였습니다. 체력적으로 적지 않은 에너지가 필요하고 시간이 늦었음에도, 느낌과 기억이 사라지기 전에 진행하고자 참여자 분들께 의견을 물어 저녁 식사후 바로 진행하였습니다. 
 
-> 저녁 7시반부터장장 2시간에 걸쳐 @hyungjoo_, @Outsideris, @semtlnori, 형주님의 동료분께서 함께 수고해 주셨습니다. (편집 및 진행: @doortts)
+> 저녁 7시반부터장장 2시간에 걸쳐 @hyungjoo_, @Outsideris, @semtlnori, 형주님의 동료분(이름은 추후 업데이트)께서 함께 수고해 주셨습니다. 
+> (편집 및 진행: @doortts)
 
 Inﬂuences of Node, Ryan Dahl
 ----------------------------
@@ -31,8 +32,8 @@ Inﬂuences of Node, Ryan Dahl
 
     - issac을 처음에 어떻게 끌여들였는지 물어보기로 함
     - CS 전공이 아니었는데 어떻게 프리랜서 개발자가 되었나?
-    - why javascript와 v8을 이용하게 되었나?
-        - answered by doortts
+    - 왜 javascript와 v8을 이용하게 되었나?
+        - already answered :)
 
 
 이러다가는 밤 새겠다는 의견으로 조금 빨리 진행하기로 함
