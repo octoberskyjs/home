@@ -15,7 +15,6 @@ Inﬂuences of Node, Ryan Dahl
 
 ### 인상깊었던 점
 
-
     - node를 만들기 위한 계기를 알 수 있었다. rails request에 대한 이야기
     - 당장의 needs에서 시작했었다는 점. rails 작업하다가 나온 문제를 해결하기 위해서 만들었다는 점
     - engine yard에서 돈받고 fulltime으로 일했다는 점이 인상적
@@ -29,6 +28,8 @@ Inﬂuences of Node, Ryan Dahl
     - 친구와 주고 받은 메일이 참 발전적이다. 
     - comma first style을 쓰기 시작했다.
     - jsconf.eu에서 발표한 이유가 그때 유럽을 돌아다녀서 였구나..
+
+[Slides](http://tinyclouds.org/nodeconf2012.pdf)
 
 ### 내일 물어볼 것
 
@@ -79,7 +80,8 @@ State of Node.js, Issac
 -----------------------
     - npm-www
     - 나머지는 slide 참조, 잘 나와 있음
-        - http://j.mp/2012-state-of-the-node
+
+[Slides](http://j.mp/2012-state-of-the-node)
 
 
 node knockout
