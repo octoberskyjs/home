@@ -152,7 +152,7 @@ substack
     - 보기 드문 발표스타일!
     - 관중들의 환호 점
 
-intersting us case for node.js
+intersting use case for node.js
 ------------------------------
 
     - node.js로 만든 karaoke 라운지 관리 프로그램
