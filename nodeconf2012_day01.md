@@ -56,7 +56,7 @@ Oh the places you'll Node, Matthew Podwysocki
     - www.onx.ms
     - node의 windows 개발환경에 대한 이야기
 
-
+[Slide](http://www.slideshare.net/mattpodwysocki/oh-the-places-youll-node-13520581)
 
 Two Years of node in yammer, Matthew Eernisse
 ---------------------------------------------
@@ -92,6 +92,7 @@ node knockout
     - slide 신기하다.
         - 대신 산만하다.
 
+[Slides](http://nodeknockout.com/tell-me-a-story)
 
 creator of socket.io, Guillermo Rauch 
 -------------------------------------
@@ -114,13 +115,14 @@ more realtime - dshaw
     - redis monitor
 
 
-The stack at Zendesk
---------------------
+Real time at larger scale, Mikito Takada
+----------------------------------------
     - 경험 이야기가 좋았다.
     - 로그에 해시 태그를 쓰라는 아이디어가 좋았다.
         - 로그 태그 통계에 쓸 수 있어서
     - 코어를 단순하게 유지하라.(동감++)
 
+[Slides](http://mixu.net/slides/nodeconf/)
 
 libuv, bert belder
 ------------------
@@ -138,6 +140,7 @@ candor - industry
     - 복잡한 ECMAScript에의 대안
     - 굉장히 좋아보였다!
 
+[Slides](https://t.co/jLq2mREu)
 
 substack
 --------
@@ -160,6 +163,7 @@ intersting us case for node.js
         - computer programming for human even bar owner!
     - 개발자들이 자기 도메인에 한정해서만 생각하고 있는 것이 아닌가..
 
+[voicebox api](http://voiceboxpdx.com/api/v1/documentation)
 
 기타 의견
 --------
