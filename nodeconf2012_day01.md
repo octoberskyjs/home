@@ -8,6 +8,8 @@ Nodeconf 2012 Day01 Sessions wrap-up
 > 저녁 7시반부터장장 2시간에 걸쳐 @hyungjoo_, @Outsideris, @semtlnori, 형주님의 동료분(이름은 추후 업데이트)께서 함께 수고해 주셨습니다. 
 > 편집 및 진행은 저, @doortts이므로 오해 및 오타는 다 제 책임입니다. (^_^);;;
 
+사진링크: [doortts's day 1](https://picasaweb.google.com/107279487440516858381/Nodeconf_portland) 
+
 Inﬂuences of Node, Ryan Dahl
 ----------------------------
 
