@@ -29,6 +29,8 @@ One page navigation guide for node.js study
 - [Node.js Community Guide](http://pismute.github.com/nodeguide.com/community.html)
 - [Exception error handling](http://nodeqa.com/nodejs_ref/1)
 - [module.exports === exports // true, 하지만, call by reference를 지키지 않으면 둘중 하나는 죽는다.](http://nodeqa.com/nodejs_ref/7)
+- [GYP (Generate Your Projects) Quick Review](http://nodeqa.com/nodejs_ref/20)
+- [Domain module 소개](http://nodeqa.com/nodejs_ref/19)
 
 ###Node.js API 
 - [한글 매뉴얼 (v0.2.6)](http://nodejs-kr.org/apis/api026.html)
