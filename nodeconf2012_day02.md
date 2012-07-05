@@ -19,7 +19,7 @@ Porting node, Tim Caswell
     - using C
     - using FFI(Fast Function Interface)
 
-[slides & sources](https://github.com/creationix/nodeconf2012/)
+[slides & resources](https://github.com/creationix/nodeconf2012/)
 
 Node Streams, Marco 
 ---
@@ -27,6 +27,7 @@ Node Streams, Marco
 - nFORGE개발하면서 겪은 문제랑 해결방법이, Marco의 문제랑 해결방법이랑 같아서 왠지 기분이 좋았다. 
 - Stream 효율적이긴 한데 문제가 생겼을 때 처리가 어렵다.
 
+[slides & resources](https://github.com/polotek/nodeconf-2012-streams-talk)
 
 node-mysql, Felix Geisendörfer
 ---
@@ -46,6 +47,8 @@ streams are userful when.., Max Ogden
 - substack 비슷한 스피커
 - webrtc가 스펙이 있었구나
 - domnode 한번 봐야겠다 (오늘은 한번 봐야겠다가 참 많다)
+
+[slides & resources](https://github.com/polotek/nodeconf-2012-streams-talk)
 
 Streams at Scale, Matt Ranney
 ---
@@ -119,6 +122,3 @@ node-memwatch
 - 내용이 정말 좋았던 것 같다. 거의 탑 수준. 왜 그런가 생각해봤는데 일단 관심있는 주제들이고 그 방면에 경험있는 사람들이 얘기해주고 (실제로 해본 사람들이) 굉장히 몰입할 수 있어서 컨퍼런스 수준이 내용면에서 굉장히 좋았다. 진행은 꽝. 아 700달러. 돌아가면 할 숙제가 많다. wrap-up을 같이 할 수 있어서 정말 좋았다. 이런 wrap-up을 빨리 하는게 훨씬 좋다(경험상). 같이 참여해주셔서 감사.
 - 너무 오고 싶었던 컨퍼런스여서 오니 좋다. 그냥 있다는 것 만으로도 진행이 어쨌든 그냥 막 좋다. node와는 특별한 연이 있는 것도 있고. node가 좀 미숙한 감도 있는데 그것도 매력. 독일에서 컨퍼런스 하는거봤는데 열악한 환경에서 잘 하더라. 그거보니까 별거 아니란 생각이 들고 여기도 딱히 세련된 것은 없고. 내용은 집에서 동영상봐도 되지만 현지의 분위기를 느끼고 해외개발자들과 어울리는 것이 좋다. 혼자 있으면 와서 밥먹자고 데려가고 그럼. 하나도 못 알아들어도 이렇게 좋은데 다 알아들으면 얼마나 좋을까. 영어공부를 해서 다시 와야겠다. (nodeconf가 아니라도) 돈은 좀 많이 들었지만 오길 잘했다.
 
-updates
----
-[slides links from gists](https://gist.github.com/3048132)

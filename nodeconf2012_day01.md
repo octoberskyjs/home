@@ -106,7 +106,7 @@ creator of socket.io, Guillermo Rauch
         - 청중.글자 키워달라고 바로 이야기 함. 역시
 
 
-more realtime - dshaw
+more realtime - Daniel Shaw
 ---------------------
     - 발표자의 말투가 마음에 안들었다.
         - 사람들이 따라 하며 놀릴 정도 
@@ -131,6 +131,7 @@ libuv, bert belder
     - 내부 동작방식에 대해 알 수 있어서 좋았다.
     - libuv의 도입 이유에 대해 알았다.
 
+[Slides](http://www.2bs.nl/nodeconf2012/#1)
 
 candor - industry
 ------------------
