@@ -2,6 +2,10 @@
 Nodeconf 2012 Day02 Sessions wrap-ujp
 ====================================
 
+> 참고로, 본 페이지에는 아~주 일부분의 내용만 담겨 있습니다. 기타 자세한 내용은 한국에서의 랩업 세미나를 기대해 주세요. :)
+
+사진링크: [day 2](https://picasaweb.google.com/107279487440516858381/Nodeconf_portland_day02) 
+
 Porting node, Tim Caswell
 ---
 
