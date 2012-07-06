@@ -39,8 +39,6 @@ node-mysql, Felix Geisendörfer
     - 이 스타리일 싫어하는 사람도 많구나!
 - 예상밖으로 매우 재밌던 세션! 친절하고 재밌는 독일 아저씨였음
 
-[links](https://github.com/lloyd/node-memwatch)
-
 streams are userful when.., Max Ogden
 ---
 
@@ -90,6 +88,8 @@ node-memwatch
 - heap diff 를 얻을 수 있다고 하는데 이게 언제와 언제의 차이인건지?
      - leak 이벤트와 leak 이벤트 사이
 - 미래에 leak을 유발한 object의 정보까지 제공해주겠다고 한게 대단해보임
+
+[links](https://github.com/lloyd/node-memwatch)
 
 하드웨어 세션들
 --------------
