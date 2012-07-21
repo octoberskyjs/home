@@ -29,7 +29,7 @@ Node Streams, Marco
 
 [slides & resources](https://github.com/polotek/nodeconf-2012-streams-talk)
 
-node-mysql, Felix Geisendörfer
+fast binary stream parsing - node-mysql, Felix Geisendörfer
 ---
 
 - 2.0 쓰게 된 것
@@ -72,6 +72,8 @@ DTrace, Node.js, Flame Graphs, Dave Pacheco
 - restify
 - dtract는 궁극의 무기같지만 로우레벨이라 쓰기가 좀
 
+[slides](http://dtrace.org/blogs/dap/files/2012/07/nodeconf.pdf)
+
 So, you've got a memory leak, Danny Coates
 ---
 
@@ -95,6 +97,10 @@ node-memwatch
 --------------
 
 - Node JS & Black Box, Emily Rose
+
+[slides](https://docs.google.com/presentation/d/1m1MiyNffoqeYQMLrtqnY990kJdfaPKhtyEXh5MQ6rC0/edit#slide=id.g14c70e36_0_0)
+
+
 - Node-spi
 
 [slides](https://www.dropbox.com/s/ff2k39ul5bs29e2/Node%20and%20SPI%20%28nodeconf2012%29.pdf)
@@ -104,6 +110,8 @@ node-memwatch
 [slides](https://dl.dropbox.com/u/3531958/nodeconf/index.html#/)
 
 - How I use node to communicate with hardware, Elijah Insua
+
+[slides](http://tmpvar.com/nodeconf-2012/assets/fallback/index.html)
 
 - 하드웨어는 그닥 관심이 없어서 아 그런가보다 하고 들었음
 - 그러나 코드가 현실세계에서 (유용하게) 동작하는 모습은 매력적

@@ -114,6 +114,7 @@ more realtime - Daniel Shaw
     - socket.io-announce
     - redis monitor
 
+[Slides](http://dshaw.github.com/2012-07-nodeconf/), [source](https://github.com/dshaw/2012-07-nodeconf)
 
 Real time at larger scale, Mikito Takada
 ----------------------------------------
@@ -152,6 +153,8 @@ substack
     - 시연이 안되자 화면을 미리 녹음해 온 걸 play 한점은 굿
     - 보기 드문 발표스타일!
     - 관중들의 환호 점
+
+[Slides](http://substack.net/doc/nodeconf_2012/)
 
 intersting use case for node.js
 ------------------------------
