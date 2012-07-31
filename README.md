@@ -33,9 +33,10 @@ One page navigation guide for node.js study
 - [Domain module 소개](http://nodeqa.com/nodejs_ref/19)
 
 ###Node.js API 
+- [한글 매뉴얼 (v0.8.2) - nodeconf.kr](http://nodeconf.kr/docs/v0.8.2/api/)
+- [한글 매뉴얼 (v0.6.19) - nodeconf.kr](http://nodeconf.kr/docs/v0.6.19/api/)
 - [한글 매뉴얼 (v0.2.6)](http://nodejs-kr.org/apis/api026.html)
 - [node.js 0.6 stable 릴리즈 내용](http://blog.doortts.com/216)
-- [node.js: modules(v0.6.14)](http://dogfeet.github.com/articles/2012/nodejs-modules.html)
 
 ###Node.js 기초 다음
 - [node에서 모듈 로드하기](http://nodejs-kr.org/insidejs/archives/457)
