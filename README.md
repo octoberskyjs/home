@@ -126,6 +126,8 @@ One page navigation guide for node.js study
 - [Meteor Template Introduction](http://nodeqa.com/nodejs_ref/37)
 - [Meteor Collection #1 Introduction](http://nodeqa.com/nodejs_ref/38)
 - [Meteor Collection's Cursors #2 Introduction](http://nodeqa.com/nodejs_ref/39)
+- [Meteor Docs](http://docs-ko.meteor.com/)
+- [Meteorite 사용하기](http://dogfeet.github.com/articles/2012/meteor-meteorite.html)
 
 ###Happy Hacking
 - [첫번째 이야기 (nodejs native module의 build과정, global 객체로 원하는 module 선언하기)](http://nodeqa.com/nodejs_ref/10)
