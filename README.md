@@ -112,6 +112,7 @@ One page navigation guide for node.js study
 - [nodejs로 Arduino 제어하기 #1](http://kyungw00k.wordpress.com/2011/11/21/nodejs로-arduino-제어하기-1/)
 - [nodejs로 Arduino 제어하기 #2](http://kyungw00k.wordpress.com/2011/11/22/nodejs로-arduino-제어하기-2/)
 - [BeagleBone에서 nodejs 소스 빌드하기](http://kyungw00k.wordpress.com/2012/02/13/beaglebone에서-nodejs-source-build-하기/)
+- [Arduino 101 using NodeJS](http://kyungw00k.tumblr.com/post/58139170919/arduino-101-using-nodejs)
 
 ### Sequelize ORM with Node.js
 - [Sequelize #1 Introduction](http://nodeqa.com/nodejs_ref/30)
